@@ -39,7 +39,7 @@ defmodule ChaosSpawn.Mixfile do
   defp deps do
     [
       {:exactor, "~> 2.2.0"},
-      {:timex, "~> 3.0.5"},
+      {:timex, "~> 3.0.6"},
 
       {:credo, "~> 0.8", only: [:dev, :test]},
 
